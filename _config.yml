@@ -1,0 +1,28 @@
+name: Kickass Compassion
+favicon: null
+layout_spectrum: 0.21837641717866063
+typography_spectrum: 0.32334604393690825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#2a2d4e'
+    - '#000000'
+    - '#6e5958'
+    - '#93adde'
+    - '#edd6ce'
+  brandStrength: 0.33832865580916405
+  lightness: 0.6875
+  saturation: 0.14975049206987023
+  rhythmicContrast: 0.5
+purpose: []
