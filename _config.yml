@@ -1,6 +1,6 @@
 name: Kickass Compassion
 favicon: null
-layout_spectrum: 0.25442
+layout_spectrum: 0.48752
 typography_spectrum: 0.51218
 title: 'Kickass Compassion. '
 cta:
@@ -23,7 +23,7 @@ color:
     - '#93adde'
     - '#edd6ce'
   brandStrength: 1
-  lightness: 0.6875
-  saturation: 0.5
+  lightness: 0.5
+  saturation: 0.0625
   rhythmicContrast: 0.5
 purpose: []
