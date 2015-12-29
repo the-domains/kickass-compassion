@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kickass Compassion]]></title>
         <description><![CDATA[Kickass Compassion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kickass-compassion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 18:19:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 18:25:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kickass-compassion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0801aa6-d334-42cf-9712-94c28e6c2c36.jpg">]]></description>
+            <link>https://thegrid.ai/kickass-compassion/30f204b6-4e71-4a44-bccd-fc774182241a/index.html</link>
+            <guid isPermaLink="false">30f204b6-4e71-4a44-bccd-fc774182241a</guid>
+            <pubDate>Tue, 29 Dec 2015 18:25:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meaning. Kindness. ]]></title>
             <description><![CDATA[<article><h1>Meaning. Kindness. </h1><p>You know that saying that's always attributed to the Buddha? The one where we're supposed to be kind and loving to ourselves first? Almost no one I know understands this. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/623c95dc2d8d9fd90a707f93d133cf1a3c324a52.jpg"></article>]]></description>
-            <link>undefinedmeaning-kindness/index.html</link>
+            <link>https://thegrid.ai/kickass-compassion/meaning-kindness/index.html</link>
             <guid isPermaLink="false">70575fc4-7083-4cae-be20-19dec44acad3</guid>
             <pubDate>Tue, 29 Dec 2015 18:19:44 GMT</pubDate>
         </item>
